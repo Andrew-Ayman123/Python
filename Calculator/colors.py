@@ -1,0 +1,5 @@
+GREY='#4c4c4c'
+ORANGE='#ec9649'
+OFFWHITE='#d5d5d5'
+BLACK='Black'
+WHITE='White'
