@@ -24,8 +24,21 @@ This application generates a customized wallpaper image every day with a bible v
 6. Upon exit, the temporary wallpaper image is deleted
 
 ## Screenshots
+- The GUI When it first opens by default
+<img src="screen_shots/1.png"  height="400"/>
 
-![Screenshot of the application window](app_screenshot.png)
+- The default image but with some edits in size, position and color
+<img src="screen_shots/2.png"  height="400"/>
+
+- When another image is selected by the "Browse" button
+<img src="screen_shots/3.png"  height="400"/>
+
+- My bacground changed when "Save" is pressed
+<img src="screen_shots/4.png"  height="400"/>
+
+- A task is successfully created in my Task Scheduler
+<img src="screen_shots/5.png"  height="400"/>
+
 
 ## Features
 
